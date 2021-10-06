@@ -3,7 +3,6 @@ import pandas as pd
 import numpy as np
 import pickle
 from sklearn.ensemble import RandomForestClassifier
-from PIL import 
 
 
 st.write('Heart Attack Prediction analysis')
